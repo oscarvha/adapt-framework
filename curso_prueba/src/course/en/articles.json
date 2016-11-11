@@ -1,0 +1,39 @@
+[
+	
+	{
+		"_id": "a-15",
+		"_parentId": "co-05",
+		"_type": "article",
+		"_classes": "",
+		"title": "a-15",
+		"displayTitle": "",
+		 "linkText":"Veeeeeer",
+		"body": "",
+		"_assessment": {
+			"_isEnabled": true,
+			"_id": "a-15",
+			"_isPercentageBased": true,
+			"_scoreToPass": 70,
+			"_includeInTotalScore": true,
+			"_assessmentWeight": 1,
+			"_banks": {
+				"_isEnabled": false,
+				"_split": "2,1",
+				"_randomisation": false
+			},
+			"_questions": {
+				"_resetType": "hard",
+				"_canShowFeedback": true,
+				"_canShowMarking": true,
+				"_canShowModelAnswer": true
+			},
+			"_isResetOnRevisit": true,
+			"_attempts": "infinite"
+		},
+		"_trickle": {
+			"_isEnabled": true
+		}
+	}
+
+
+]
